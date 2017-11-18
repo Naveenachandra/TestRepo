@@ -10,13 +10,16 @@ public class AppTest
 {
       public void testSlow() {
         System.out.println("slow");
+	
       }
 
       public void testSlower() {
         System.out.println("slower");
+
       }
 
       public void testFast() {
         System.out.println("fast");
+
       }
     }
